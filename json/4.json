@@ -1,0 +1,19 @@
+{
+  "name": "curso base  #4",
+  "description": "teste do curso",
+  "image": "https://raw.githubusercontent.com/figurinhanft/KawaiiVase/main/image/4.png",
+  "dna": "ccb3569644ec984a79d83b11388ff19364a50b92",
+  "edition": 4,
+  "date": 1647817328551,
+  "attributes": [
+    {
+      "trait_type": "aqui",
+      "value": "beiijamin"
+    },
+    {
+      "trait_type": "aqui1",
+      "value": "corpo1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

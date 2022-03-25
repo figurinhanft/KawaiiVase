@@ -1,0 +1,19 @@
+{
+  "name": "curso base  #3",
+  "description": "teste do curso",
+  "image": "https://raw.githubusercontent.com/figurinhanft/KawaiiVase/main/image/3.png",
+  "dna": "5fe8aa80298cb8bfd1559df792ad0a45f1cc2ed3",
+  "edition": 3,
+  "date": 1647817320097,
+  "attributes": [
+    {
+      "trait_type": "aqui",
+      "value": "baleia azul"
+    },
+    {
+      "trait_type": "aqui1",
+      "value": "corpo"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
